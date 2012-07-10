@@ -48,9 +48,9 @@ Code lay-out
 - imports are always put at the top of the file, just after any module comments and docstrings, and before module globals and constants
 - imports should be grouped in the following order, you should put a blank line between each group of imports:
 
-    1. standard library imports
-    2. related third party imports
-    3. local application/library specific imports
+     1. standard library imports
+     2. related third party imports
+     3. local application/library specific imports
 
 - within each grouping, imports should be sorted lexicographically, ignoring case, according to each module's full package path
 - always use the absolute package path for all imports

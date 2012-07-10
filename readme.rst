@@ -1,6 +1,6 @@
 Indentation
 ===========
-
+:
     - use 4 spaces per indentation level for Python code
     - use 2 spaces per indentation level for HTML code
     - use 8 spaces per indentation level for CSS code
@@ -20,7 +20,7 @@ Indentation
 
 Maximum Line Length
 ===================
-
+:
     - limit all lines to a maximum of 79 characters
     - the preferred way of wrapping long lines is by using Python's implied line continuation inside parentheses, brackets and braces
     - the preferred place to break around a binary operator is after the operator, not before it
@@ -29,7 +29,7 @@ Maximum Line Length
 
 Blank Lines
 ===========
-
+:
     - separate top-level function and class definitions with two blank lines
     - method definitions inside a class are separated by a single blank line
     - extra blank lines may be used (sparingly) to separate groups of related functions

@@ -34,9 +34,3 @@ Names Abbreviation:
     - don't abbreviate by removing one character from a word
     - always use the same abbreviation
     - Read more: *Code Complete 2ed: 11.6 Creating Short Names That Are Readable*
-
-Used:
-    - PEP 8 -- Style Guide for Python Code: http://www.python.org/dev/peps/pep-0008/
-    - Google Python Style Guide: http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
-    - Django. Coding style: https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/
-    - Code Complete 2ed by Steve McConnell 2004

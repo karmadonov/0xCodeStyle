@@ -1,4 +1,4 @@
-:doc:`Naming <naming>`
+.. include:: codestyle/naming.rst
 
 
 Used:

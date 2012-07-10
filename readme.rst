@@ -18,13 +18,13 @@ Indentation
             print(var_one)
 
 
-Maximum Line Length
-===================
+Maximum Line Length:
+====================
 
-    * limit all lines to a maximum of 79 characters
-    * the preferred way of wrapping long lines is by using Python's implied line continuation inside parentheses, brackets and braces
-    * the preferred place to break around a binary operator is after the operator, not before it
-    * avoid backslash line continuation
+    - limit all lines to a maximum of 79 characters
+    - the preferred way of wrapping long lines is by using Python's implied line continuation inside parentheses, brackets and braces
+    - the preferred place to break around a binary operator is after the operator, not before it
+    - avoid backslash line continuation
 
 
 Blank Lines

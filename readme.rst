@@ -6,7 +6,6 @@ Indentation
 - use 8 spaces per indentation level for CSS code
 - continuation lines should align wrapped elements either vertically using Python's implicit line joining inside parentheses, brackets and braces, or using a hanging indent
 - when using a hanging indent the following considerations should be applied; there should be no arguments on the first line and further indentation should be used to clearly distinguish itself as a continuation line::
-
     # Aligned with opening delimiter
     foo = long_function_name(var_one, var_two,
                              var_three, var_four)
